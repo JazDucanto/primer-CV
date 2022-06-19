@@ -1,0 +1,37 @@
+*{
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+body{
+     background-color: #6a8387;
+     border: 10px double #3b545b
+ }
+ h1{
+     text-align: center;
+ }
+ .links{
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        border: 1px solid #3b545b;
+ }
+
+ .link{
+       padding: 0;
+        float: left;
+        text-align: center;
+        box-shadow: 2px 4px 10px 0 #000;
+        border-radius: 2em;
+      }
+      
+      a {
+        display: block;
+        padding: 4px;
+        background-color: #3b545b;
+        border-radius: 2em;
+      }
+ 
+ 
